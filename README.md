@@ -16,5 +16,5 @@ I am running it on my machine with the following configirutations:
 
 ## Compilation 
 
-Inline `clang++ -g -O3 toy.cpp llvm-config --cxxflags --ldflags --system-libs --libs core` -o toy` 
+Inline `clang++ -g -O3 toy.cpp llvm-config --cxxflags --ldflags --system-libs --libs core -o toy` 
 
