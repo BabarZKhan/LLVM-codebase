@@ -18,3 +18,6 @@ I am running it on my machine with the following configirutations:
 
 run `clang++ -g -O3 toy.cpp llvm-config --cxxflags --ldflags --system-libs --libs core -o toy` 
 
+# Resources
+- [MLIR](https://mlir.llvm.org/)
+- [MLIR-toy tutorial](https://mlir.llvm.org/docs/Tutorials/Toy/)
