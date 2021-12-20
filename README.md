@@ -10,10 +10,10 @@ I am running it on my machine with the following configirutations:
 
 ## System Requirements (Linux)
 
-1. Ubuntu 18.04
-2. Linux 5.4.0-51-generic
-3. gcc 9.3.0
-4. clang version 12.0.0
+-  Ubuntu 18.04
+- Linux 5.4.0-51-generic
+- gcc 9.3.0
+- clang version 12.0.0
 
 ## System Requirements (Windows)
 - 
