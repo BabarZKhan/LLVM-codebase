@@ -21,9 +21,13 @@ I am running it on my machine with the following configirutations:
 -
 
 
-## Compile
+## Compile (Linux)
 
 run `clang++ -g -O3 toy.cpp llvm-config --cxxflags --ldflags --system-libs --libs core -o toy` 
+
+## Compile (Windows)
+
+run `clang++ -Wall .\toy.cpp -o .\toy`
 
 # Resources
 - [MLIR](https://mlir.llvm.org/)
