@@ -1,0 +1,5 @@
+digraph "CFG for '__cxx_global_var_init' function" {
+	label="CFG for '__cxx_global_var_init' function";
+
+	Node0x1b8fe98e9a0 [shape=record,color="#b70d28ff", style=filled, fillcolor="#b70d2870",label="{%0:\l  call void\l... @_ZNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEC1Ev(%\"class.std::__cxx1\l...1::basic_string\"* nonnull align 8 dereferenceable(32)\l... @_ZL13IdentifierStrB5cxx11) #2\l  %1 = call i32 @atexit(void ()* @__dtor__ZL13IdentifierStrB5cxx11) #2\l  ret void\l}"];
+}

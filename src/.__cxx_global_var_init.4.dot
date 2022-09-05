@@ -1,0 +1,5 @@
+digraph "CFG for '__cxx_global_var_init.4' function" {
+	label="CFG for '__cxx_global_var_init.4' function";
+
+	Node0x1b8fe9ad500 [shape=record,color="#b70d28ff", style=filled, fillcolor="#b70d2870",label="{%0:\l  %1 = call i32 @atexit(void ()* @__dtor__ZL7Builder) #2\l  ret void\l}"];
+}

@@ -1,0 +1,5 @@
+digraph "CFG for '__dtor__ZL10TheContext' function" {
+	label="CFG for '__dtor__ZL10TheContext' function";
+
+	Node0x1b8fe9a5b60 [shape=record,color="#b70d28ff", style=filled, fillcolor="#b70d2870",label="{%0:\l  call void\l... @_ZNSt10unique_ptrIN4llvm11LLVMContextESt14default_deleteIS1_EED2Ev(%\"class.st\l...d::unique_ptr\"* bitcast (\{ \{ \{ %\"class.llvm::LLVMContext\"* \} \} \}*\l... @_ZL10TheContext to %\"class.std::unique_ptr\"*))\l  ret void\l}"];
+}

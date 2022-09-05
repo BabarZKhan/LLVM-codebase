@@ -1,0 +1,5 @@
+digraph "CFG for '_GLOBAL__sub_I_toy.cpp' function" {
+	label="CFG for '_GLOBAL__sub_I_toy.cpp' function";
+
+	Node0x1b8ff5c9810 [shape=record,color="#b70d28ff", style=filled, fillcolor="#b70d2870",label="{%0:\l  call void @__cxx_global_var_init()\l  call void @__cxx_global_var_init.1()\l  call void @__cxx_global_var_init.2()\l  call void @__cxx_global_var_init.3()\l  call void @__cxx_global_var_init.4()\l  call void @__cxx_global_var_init.5()\l  call void @__cxx_global_var_init.6()\l  call void @__cxx_global_var_init.7()\l  ret void\l}"];
+}

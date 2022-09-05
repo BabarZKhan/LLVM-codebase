@@ -1,0 +1,5 @@
+digraph "CFG for '__dtor__ZL9TheModule' function" {
+	label="CFG for '__dtor__ZL9TheModule' function";
+
+	Node0x1b8fe9a61a0 [shape=record,color="#b70d28ff", style=filled, fillcolor="#b70d2870",label="{%0:\l  call void\l... @_ZNSt10unique_ptrIN4llvm6ModuleESt14default_deleteIS1_EED2Ev(%\"class.std::uni\l...que_ptr.87\"* bitcast (\{ \{ \{ %\"class.llvm::Module\"* \} \} \}* @_ZL9TheModule to\l... %\"class.std::unique_ptr.87\"*))\l  ret void\l}"];
+}
