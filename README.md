@@ -33,3 +33,4 @@ run `clang++ -Wall .\toy.cpp -o .\toy`
 # Resources
 - [MLIR](https://mlir.llvm.org/)
 - [MLIR-toy tutorial](https://mlir.llvm.org/docs/Tutorials/Toy/)
+- [](https://github.com/skeru/LLVM-intro)
